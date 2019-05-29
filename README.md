@@ -1,2 +1,7 @@
 # at
 android tools
+1.集成STF minicap与minitouch等工具demo
+2.利用minicap与minitouch实现直接电脑投射手机屏幕并且操作 
+3.设备和开发机可以脱离数据线，通过WiFi互联（基于atx-agent）
+4.手机设备集成管理平台
+5....
